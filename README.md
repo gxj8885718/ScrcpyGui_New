@@ -13,4 +13,4 @@ another scrcpygui written by AutoHotKey
       AutoHotKey制作团队 软件官网：https://autohotkey.com
       
 
- ![]()
+ ![](https://github.com/gxj8885718/ScrcpyGui_New/raw/master/Preview.gif)
